@@ -1,5 +1,5 @@
 this repositori will learn you how to create him
--firt créate a repository on github by clicking the button new repository on the top right
+-firt create a repository on github by clicking the button new repository on the top right
 -on the terminal create a dir with mkdir command
 -cd into the dir
 -do a git init to initialised the local repo
