@@ -1,7 +1,11 @@
 this repositori will learn you how to create him
+<<<<<<< HEAD
 
 -firt créate a repository on github by clicking the button new repository on the top right
 
+=======
+-firt create a repository on github by clicking the button new repository on the top right
+>>>>>>> 22f76485b940f91998983681454249a063fb3263
 -on the terminal create a dir with mkdir command
 
 -cd into the dir
